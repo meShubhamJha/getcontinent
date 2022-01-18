@@ -8,5 +8,5 @@ setup(name='getconti',
       author_email='sjha0090@gmail.com',
       license='MIT',
       packages=['getconti'],
-      requires=['pandas',"os"],
+      install_requires=['pandas',"os"],
       zip_safe=False)
