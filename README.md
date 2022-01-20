@@ -1,4 +1,4 @@
-# getcontinent
+# getContinent
 
 This library can help you find the continent of a given country on any given large dataset.
 
