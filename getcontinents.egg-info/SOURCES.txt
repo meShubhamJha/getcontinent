@@ -1,9 +1,0 @@
-setup.py
-getconti/__init__.py
-getconti/getconti.py
-getcontinents.egg-info/PKG-INFO
-getcontinents.egg-info/SOURCES.txt
-getcontinents.egg-info/dependency_links.txt
-getcontinents.egg-info/not-zip-safe
-getcontinents.egg-info/requires.txt
-getcontinents.egg-info/top_level.txt

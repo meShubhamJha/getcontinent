@@ -1,1 +1,1 @@
-from getconti import getConti
+from .getconti import getConti

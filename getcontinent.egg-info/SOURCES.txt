@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+getconti/__init__.py
+getconti/getconti.py
+getconti/datasource/Continents_to_CountryNames.csv
+getcontinent.egg-info/PKG-INFO
+getcontinent.egg-info/SOURCES.txt
+getcontinent.egg-info/dependency_links.txt
+getcontinent.egg-info/not-zip-safe
+getcontinent.egg-info/requires.txt
+getcontinent.egg-info/top_level.txt
