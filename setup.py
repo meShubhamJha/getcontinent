@@ -2,7 +2,7 @@ import os
 from setuptools import setup
 
 setup(name='getcontinent',
-      version='1.1.2',
+      version='1.0.0',
       description='This module can help you to get the continent of different countries',
       url='https://github.com/meShubhamJha/getconti',
       author='Shubham Jha',
