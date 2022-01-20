@@ -1,9 +1,14 @@
 import os
 from setuptools import setup
+from pathlib import Path
+
+this_directory = Path(__file__).parent
+long_description = (this_directory / "README.md").read_text()
 
 setup(name='getcontinent',
       version='1.0.0',
       description='This module can help you to get the continent of different countries',
+      long_description=long_description,
       url='https://github.com/meShubhamJha/getconti',
       author='Shubham Jha',
       author_email='sjha0090@gmail.com',
