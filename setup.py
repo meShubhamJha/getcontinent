@@ -5,7 +5,7 @@ from pathlib import Path
 this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text()
 
-setup(name='getcontinent',
+setup(name='getContinent',
       version='1.0.0',
       description='This module can help you to get the continent of different countries',
       long_description=long_description,
