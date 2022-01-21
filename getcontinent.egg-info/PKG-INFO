@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: getContinent
-Version: 1.0.0
+Version: 1.1.1
 Summary: This module can help you to get the continent of different countries
 Home-page: https://github.com/meShubhamJha/getconti
 Author: Shubham Jha
@@ -22,7 +22,7 @@ This library can help you find the continent of a given country on any given lar
 Use the package manager [pip](https://pypi.org/project/getcontinent/) to install foobar.
 
 ```bash
-pip install getcontinent
+pip install getContinent
 ```
 
 ## Usage

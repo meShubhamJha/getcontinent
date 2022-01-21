@@ -7,7 +7,7 @@ This library can help you find the continent of a given country on any given lar
 Use the package manager [pip](https://pypi.org/project/getcontinent/) to install foobar.
 
 ```bash
-pip install getcontinent
+pip install getContinent
 ```
 
 ## Usage

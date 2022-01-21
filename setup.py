@@ -6,7 +6,7 @@ this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text()
 
 setup(name='getContinent',
-      version='1.0.0',
+      version='1.1.1',
       description='This module can help you to get the continent of different countries',
       long_description=long_description,
       long_description_content_type='text/markdown',
