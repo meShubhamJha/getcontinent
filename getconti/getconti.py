@@ -15,9 +15,22 @@ class getConti:
         self.CountryDictionary = dict(zip(country, continent))
         
 
-    def getContinents(self,country):
+    def getContinent(self,country):
 
         try:
             return self.CountryDictionary[country.title()]
         except:
             return "Unknown"
+
+    def getContinents(self, countryList):
+        continents = []
+        for country in countryList:
+            continents.append(self.getContinent(country))
+        return continents
+    
+    def getContinentDictionary(self, countryList):
+        continents = {}
+        for country in countryList:
+            continents[country] = self.getContinent(country)
+        return continents
+
